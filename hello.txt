@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello world£¡£¡£¡
-=======
-hello world£¡£¡£¡
->>>>>>> 9f68e762fed9c454bc998951eacd3277ceccd333
